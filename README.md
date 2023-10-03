@@ -11,8 +11,8 @@ Node w wersji 20 lub wyższej.
 ## Instalacja
 
 ```
-git clone ...
-cd ...
+git clone git@github.com:dawidurbanski/gutenberg-wcgdynia.git
+cd gutenberg-wcgdynia
 npm install
 npm run start
 ```
