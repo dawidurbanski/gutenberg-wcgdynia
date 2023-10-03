@@ -27,7 +27,7 @@ Wtyczka powinna być właczona automatycznie.
 
 Nazwy wszystkich bloków zaczynają się od `WC`.
 
-![Bloki](<CleanShot 2023-10-03 at 13.37.22@2x.png>)
+![Bloki](screen.png)
 
 ## Disclaimer
 
