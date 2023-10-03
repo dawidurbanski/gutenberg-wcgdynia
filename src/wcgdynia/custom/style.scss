@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 80px;
+
+  h2 {
+    flex: 1;
+  }
+}

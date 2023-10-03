@@ -1,0 +1,21 @@
+{
+  "name": "wcgdynia",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "wp-scripts start & wp-now start --blueprint=.setup/blueprint.json",
+    "build": "wp-scripts build",
+    "format": "wp-scripts format",
+    "lint:css": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js",
+    "packages-update": "wp-scripts packages-update",
+    "plugin-zip": "wp-scripts plugin-zip",
+    "wp-now": "wp-now"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.6.0",
+    "@wp-now/wp-now": "^0.1.63"
+  },
+  "dependencies": {
+    "@wordpress/icons": "^9.33.0"
+  }
+}

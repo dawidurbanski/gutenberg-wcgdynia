@@ -1,0 +1,13 @@
+{
+  "landingPage": "/wp-admin/plugins.php",
+  "steps": [
+    {
+      "step": "rmdir",
+      "path": "/var/www/html/wp-content/plugins/akismet"
+    },
+    {
+      "step": "rm",
+      "path": "/var/www/html/wp-content/plugins/hello.php"
+    }
+  ]
+}
